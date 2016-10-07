@@ -10,6 +10,8 @@ namespace csharp_playground
     {
         static void Main(string[] args)
         {
+            ContinueKeyword.PrintOddsUsingContinue();
+            Console.ReadKey();
         }
     }
 }
