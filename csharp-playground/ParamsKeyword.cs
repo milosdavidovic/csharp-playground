@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_playground
 {
-    class Params
+    class ParamsKeyword
     {
 
         public static void ParamsExample()

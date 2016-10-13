@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_playground
 {
-    class TypeOf
+    class TypeOfKeyword
     {
         public static void TypeOfExample()
         {

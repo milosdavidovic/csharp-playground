@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_playground
 {
-    class QueueT 
+    class QueueClass 
     {
         //Queue (pronounced: kju) - Represents a first-in, first-out (FIFO) collection of objects.
 

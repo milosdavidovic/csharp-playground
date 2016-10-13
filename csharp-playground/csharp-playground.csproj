@@ -45,12 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContinueKeyword.cs" />
-    <Compile Include="Params.cs" />
+    <Compile Include="ParamsKeyword.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueueT.cs" />
-    <Compile Include="TupleT.cs" />
-    <Compile Include="TypeOf.cs" />
+    <Compile Include="QueueClass.cs" />
+    <Compile Include="TupleClass.cs" />
+    <Compile Include="TypeOfKeyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

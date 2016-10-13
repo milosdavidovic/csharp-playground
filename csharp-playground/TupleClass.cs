@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_playground
 {
-    class TupleT
+    class TupleClass
     {
         public static void TupleExample()
         {

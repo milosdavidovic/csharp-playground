@@ -11,10 +11,10 @@ namespace csharp_playground
         static void Main(string[] args)
         {
             ContinueKeyword.PrintOddsUsingContinue();
-            QueueT.PrintQueueMemeber();
-            TupleT.TupleExample();
-            TypeOf.TypeOfExample();
-            Params.ParamsExample();
+            QueueClass.PrintQueueMemeber();
+            TupleClass.TupleExample();
+            TypeOfKeyword.TypeOfExample();
+            ParamsKeyword.ParamsExample();
             Console.ReadKey();
         }
     }
